@@ -1,0 +1,10 @@
+tmp/*
+lib/*
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+\#*
+\.\#*
+*.pyc
